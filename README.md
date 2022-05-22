@@ -2,6 +2,9 @@
 
 >### Last updated 5/21
 >### Current version: V1.0
+>#### Scroll down for installation details
+
+<br/>
 
 #### **What this software does:**
 
@@ -25,8 +28,8 @@
 >
 > 3. Open the downloaded file
 >
-> 4. if you are promped with a virus warning, press run anyways
+> 4. If you are promped with a virus warning, press run anyways
 >
-> 5. you may need to click more info or something similar
+> 5. You may need to click more info or something similar
 >
-> 6. if everything works as intended, you will have successfully installed smart schedule!
+> 6. If everything works as intended, you will have successfully installed smart schedule!
