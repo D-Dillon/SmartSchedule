@@ -6,9 +6,9 @@ Current version: V1.0
 
 <br/>
 
-To update/install do the following:
+**To update/install do the following:**
 
-Navigate to the SmartSetup.exe repository
+Navigate to the instalation repository repository https://github.com/D-Dillon/SmartSchedule/releases/tag/v1.0
 
 Click the download button on the right side of the screen
 
