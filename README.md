@@ -14,8 +14,8 @@
 >4. Shows you how long until the next class
 
 #### **What I plan to add:**
->1. A feature that tells you how long you have until your next break (nutrition, lunch, or end of day)
->2. Weekend compatibility so that it doesn't just say N/A
+>1. A feature that tells you how long you have until your next break (nutrition, lunch, or end of day) *(done, will be added in next update)*
+>2. Weekend compatibility so that it doesn't just say N/A *(done, will be added in next update)*
 >3. Settings so that you can assign the names of classes instead of just the numbers
 
 <br/>
